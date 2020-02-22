@@ -34,3 +34,4 @@ Labor Standards Act
 - [第十一章　監督機関（第九十七条―第百五条）](/chapter11.md#%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0%E7%9B%A3%E7%9D%A3%E6%A9%9F%E9%96%A2)
 - [第十二章　雑則（第百六条―第百十六条）](/chapter12.md#%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0%E9%9B%91%E5%89%87)
 - [第十三章　罰則（第百十七条―第百二十一条）](/chapter13.md#%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AB%A0%E7%BD%B0%E5%89%87)
+- [附則](/supplementary_provision.md#%E9%99%84%E5%89%87%E6%98%AD%E5%92%8C%E4%BA%8C%E4%BA%8C%E5%B9%B4%E5%9B%9B%E6%9C%88%E4%B8%83%E6%97%A5%E6%B3%95%E5%BE%8B%E5%9B%9B%E5%8D%81%E4%B9%9D%E5%8F%B7)
