@@ -33,4 +33,4 @@ Labor Standards Act
 - [第十章　寄宿舎（第九十四条―第九十六条）](/chapter10.md#%E7%AC%AC%E5%8D%81%E7%AB%A0%E5%AF%84%E5%AE%BF%E8%88%8E)
 - [第十一章　監督機関（第九十七条―第百五条）](/chapter11.md#%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0%E7%9B%A3%E7%9D%A3%E6%A9%9F%E9%96%A2)
 - [第十二章　雑則（第百六条―第百十六条）](/chapter12.md#%E7%AC%AC%E5%8D%81%E4%BA%8C%E7%AB%A0%E9%9B%91%E5%89%87)
-- [第十三章　罰則（第一条―第十五条）]()
+- [第十三章　罰則（第百十七条―第百二十一条）](/chapter13.md#%E7%AC%AC%E5%8D%81%E4%B8%89%E7%AB%A0%E7%BD%B0%E5%89%87)
