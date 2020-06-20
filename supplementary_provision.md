@@ -4,7 +4,7 @@
 
 ### 第百二十二条
 
-この法律施行の期日は、[勅令](https://github.com/law-of-japan/19470830-ministerialOrdinance-23)で、これを定める。
+この法律施行の期日は、[勅令](https://github.com/law-of-japan/19470830-ministryOfHealthAndWelfare-ministerialOrdinance-23)で、これを定める。
 
 ### 第百二十三条
 
